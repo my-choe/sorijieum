@@ -110,7 +110,6 @@ Blind person can listen to a book and Volunteer can make a sound-book using this
 > - commons-io-2.4.jar
 > - cos.jar
 > - ojdbc6.jar
-> - jstl-1.2.jar
 > - Pdfbox-1.8.3.jar
 
 ----------
