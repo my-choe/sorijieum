@@ -112,7 +112,4 @@ Blind person can listen to a book and Volunteer can make a sound-book using this
 > - ojdbc6.jar
 > - Pdfbox-1.8.3.jar
 
-----------
-
-## Database Model
-
+---------
